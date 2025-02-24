@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "unsigned-int.C": "cpp"
+        "unsigned-int.C": "cpp",
+        "double.C": "cpp"
     }
 }
